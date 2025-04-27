@@ -5,7 +5,7 @@
 
 ![Snipaste_2025-04-27_23-56-16](https://github.com/user-attachments/assets/684f511f-b400-4ce2-a5c7-e53256e7be1e)
 
-### 下载 sam2.1_hiera_tiny.pt 至sam2文件夹（主文件夹）下即可，或使用其他模型
+### 下载 sam2.1_hiera_tiny.pt 至sam2_mouse文件夹（主文件夹）下即可，或使用其他模型
 [sam2.1_hiera_tiny.pt](https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_tiny.pt)
 
 ## SAM 2: Segment Anything in Images and Videos
