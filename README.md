@@ -1,12 +1,25 @@
-# SAM with Mouse or saved csv!!!
+# SAM with Mouse or saved CSV!!!
 
-### 只需要用鼠标点击即可视频/图片分割！支持保存分割引导框、点位置为csv！ 
+### 只需要用鼠标点击即可视频/图片分割！支持保存分割引导框、点位置为CSV！ 
 ![Snipaste_2025-04-27_23-56-54](https://github.com/user-attachments/assets/0cb779cb-e4f8-4f2d-be39-723961c12744)
 
 ![Snipaste_2025-04-27_23-56-16](https://github.com/user-attachments/assets/684f511f-b400-4ce2-a5c7-e53256e7be1e)
 
 ### 下载 sam2.1_hiera_tiny.pt 至sam2_mouse文件夹（主文件夹）下即可，或使用其他模型
 [sam2.1_hiera_tiny.pt](https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_tiny.pt)
+
+### 使用后台线程进行视频输出 Using background threads for video output:
+
+```bash
+python main-thread.py
+```
+
+# To do :
+```
+多线程视频读取 Multithreaded video reading
+
+多线程视频输出 Multithreaded video output
+```
 
 ## SAM 2: Segment Anything in Images and Videos
 
